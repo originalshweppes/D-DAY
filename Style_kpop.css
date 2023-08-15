@@ -1,0 +1,74 @@
+body {
+	background-color: black;
+	color: white;
+	font-family: helvetica;
+}
+header {
+	width: 100%;
+	background: #A9A9A9;
+	height: 70px;
+	padding-top: 45px;
+}
+footer {
+	padding: 7vh;
+	background: #666;
+	color: #A9A9A9;
+}
+h1 {
+	font-family: arial black;
+	font-size: 50px;
+	color: gray;
+
+}
+img {
+	border:3px solid #696969;
+}
+h4 {
+	font-family: futura; 
+	color: #A9A9A9;
+}
+table {
+	border: 2px solid white; 
+	border-collapse: collapse; 
+	text-align: center;
+}
+th, td {
+	border: 2px solid white;
+}
+hr {
+	color: #C0C0C0;
+}
+.zagolovok {
+	font-size: 25px;
+	color: #A9A9A9;
+	font-family: Caprasimo;
+	text-align: center;
+	
+	}
+.shrift {
+	font-family: ARIAL BLACK;
+	color: #A9A9A9; 
+	font-size: 20px;
+}
+ol {
+	font-family: futura;
+	text-align: center;
+	list-style-position: inside;
+}
+a {
+	text-decoration: none;
+	font-family: caprasimo;
+	font-size: 19px;
+	color: black;
+	border: 5px solid gray;
+	background-color: gray;
+	border-radius: 7px;
+	margin: 45px;
+
+}
+b {
+	color: #A9A9A9;
+}
+ul {
+	list-style: url("btss.png");
+}
